@@ -11,4 +11,4 @@ The project is supervised by [Assoc. Prof. Nicola Orsini](https://ki.se/en/peopl
 
 📎 Check out the latest publication on [missing data in distributed data networks](https://www.tandfonline.com/doi/full/10.1080/00949655.2024.2404220?src=).
 
-📫 Please contact me for any questions regarding the repos on this site: [robert.thiesmeier@ki.se](maito:robert.thiesmeier@ki.se).
+📫 Please contact me for any questions.
