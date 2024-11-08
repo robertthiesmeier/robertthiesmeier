@@ -7,7 +7,7 @@ The project is supervised by [Assoc. Prof. Nicola Orsini](https://ki.se/en/peopl
 
 🔭 We are currently working on methods to impute missing values with external data.
 
-📍I am currently based in Boston, MA, USA :us: as a research trainee for a 6-months at the [TIMI Study Group](https://timi.org), Brigham and Women's Hospital/Harvard Medical School.
+📍I am currently based in Boston, MA, USA :us:, as a research trainee for a 6-months at the [TIMI Study Group](https://timi.org), Brigham and Women's Hospital/Harvard Medical School.
 
 📎 Check out the latest publication on [missing data in distributed data networks](https://www.tandfonline.com/doi/full/10.1080/00949655.2024.2404220?src=).
 
