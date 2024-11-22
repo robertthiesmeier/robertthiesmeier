@@ -13,5 +13,5 @@ The project is supervised by [Assoc. Prof. Nicola Orsini](https://ki.se/en/peopl
 
 📫 Please contact me for any questions: robert.thiesmeier@ki.se
 
-**Summer School 🏫 of Modern Methods in Biostatistics and Epidemiology 📊 : https://www.bioepiedu.org**
+**Summer School 🏫 on Modern Methods in Biostatistics and Epidemiology 📊 : https://www.bioepiedu.org**
 
