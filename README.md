@@ -12,3 +12,6 @@ The project is supervised by [Assoc. Prof. Nicola Orsini](https://ki.se/en/peopl
 📎 Have a look at the latest publication on [missing data in distributed data networks](https://www.tandfonline.com/doi/full/10.1080/00949655.2024.2404220?src=).
 
 📫 Please contact me for any questions: robert.thiesmeier@ki.se
+
+### Summer School 🏫 of Modern Methods in Biostatistics and Epidemiology 📊 : https://www.bioepiedu.org
+
